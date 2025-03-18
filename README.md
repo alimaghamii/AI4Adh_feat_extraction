@@ -53,9 +53,9 @@ Press **Enter** to proceed through plots.
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name]  
-[Your Institution or Affiliation]  
-[Your Contact Information]
+Ali Maghami
+Politecnico di Bari, Italy, TU Berlin, Germany  
+a.maghami@phd.poliba.it
 
 ---
 Happy coding! 🚀
